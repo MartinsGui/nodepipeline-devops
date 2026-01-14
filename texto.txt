@@ -20,7 +20,7 @@
           npm install
           pm2 restart app  # Exemplo para reiniciar a aplicação Node.js com PM2
 
-ame: Deploy to EC2 on AWS
+name: Deploy to EC2 on AWS
 
 on:
   push:
